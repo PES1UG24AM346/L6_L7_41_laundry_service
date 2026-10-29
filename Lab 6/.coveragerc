@@ -1,0 +1,7 @@
+[run]
+source =
+    laundry_service
+    test_laundry_service
+
+[report]
+show_missing = True
